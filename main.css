@@ -1,0 +1,14 @@
+body {
+  background-image: url(download.jpg);
+  text-align:center;
+}
+
+.colorcombo1 {
+  color:green;
+  background-color:blue;
+}
+.colorcombo2 {
+  color:red;
+  background-color:purple
+}    
+ 
